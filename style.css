@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(0, 0, 0, 0.97);
+}
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+    text-align: center;
+    color: rgb(218, 205, 205);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: 5px 5px 2px;
+    width: 400px;
+    display: table;
+    margin: auto;
+}
+.logo {
+    img {
+        width: 180px;
+        margin: auto;
+        display: table;
+    }
+}
+.cat {
+    display: flex;
+    padding-left: 60px;
+    gap: 555px;
+    height: 400px;
+    margin-top: -500px;
+    justify-content: center;
+}
+.ig {
+    justify-content: center;
+    display: flex;
+}
